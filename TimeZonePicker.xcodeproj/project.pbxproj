@@ -25,6 +25,8 @@
 		333C448C243F6E7600BF66BD /* CityCountryTimeZone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333C4489243F6E7600BF66BD /* CityCountryTimeZone.swift */; };
 		333C448D243F6E7600BF66BD /* TimeZonePickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333C4488243F6E7600BF66BD /* TimeZonePickerViewController.swift */; };
 		333C448E243F6E7600BF66BD /* TimeZonePickerDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333C448A243F6E7600BF66BD /* TimeZonePickerDataSource.swift */; };
+		333C44922440A57100BF66BD /* CitiesAndTimeZones.json in Sources */ = {isa = PBXBuildFile; fileRef = 333C4490243F6EA300BF66BD /* CitiesAndTimeZones.json */; };
+		333C44932440A57100BF66BD /* TimeZonePicker.storyboard in Sources */ = {isa = PBXBuildFile; fileRef = 333C4491243F6EAE00BF66BD /* TimeZonePicker.storyboard */; };
 		OBJ_31 /* TimeZonePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_9 /* TimeZonePicker.swift */; };
 		OBJ_38 /* Package.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_6 /* Package.swift */; };
 		OBJ_49 /* TimeZonePickerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_12 /* TimeZonePickerTests.swift */; };
@@ -252,6 +254,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 0;
 			files = (
+				333C44922440A57100BF66BD /* CitiesAndTimeZones.json in Sources */,
+				333C44932440A57100BF66BD /* TimeZonePicker.storyboard in Sources */,
 				333C448C243F6E7600BF66BD /* CityCountryTimeZone.swift in Sources */,
 				333C448D243F6E7600BF66BD /* TimeZonePickerViewController.swift in Sources */,
 				333C448E243F6E7600BF66BD /* TimeZonePickerDataSource.swift in Sources */,
